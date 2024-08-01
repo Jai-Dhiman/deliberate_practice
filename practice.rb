@@ -3,3 +3,4 @@
 puts 'type a word: '
 in_word = gets.chomp
 print 'your word in reverse is: ', in_word.reverse, '!'
+
